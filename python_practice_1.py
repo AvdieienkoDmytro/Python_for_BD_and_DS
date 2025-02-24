@@ -1,0 +1,1 @@
+print("Dmytro Avdieienko, KN_Group_1")
